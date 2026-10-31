@@ -20,5 +20,7 @@ Python · PyTorch · TensorFlow · Keras · Scikit-Learn · NumPy · Pandas · M
 ## 🌐 Find Me Online
 - 📧 [[Email me](syeda.zartashia.shafique@outlook.com)]
 - 🔗 [[LinkedIn](https://www.linkedin.com/in/syeda-zartashia-shafique-0a7142218/)]
+- 🆔 ORCID: [add link]
+- 🌍 Website: [add your Google Site link]
 
 📫 Open to research collaboration and PhD opportunities.
