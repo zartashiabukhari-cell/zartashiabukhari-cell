@@ -14,16 +14,12 @@ My goal is to build reliable vision systems that stay robust under distribution 
 ## 📄 Publications & Research
 Publications can be seen in 🎓 Google Scholar: [https://scholar.google.com/citations?user=j8IwUU4AAAAJ&hl=en]
 
-## 🚀 Projects
-- **Explainable Fingerprint PAD**: lightweight MobileNet-inspired CNN with explainability for spoof detection
-- **SignSpeaks**: real-time sign language recognition platform for specially abled children (CNN, 96% accuracy)
-
 ## 🛠️ Tools & Skills
-Python · PyTorch · TensorFlow · Keras · Scikit-Learn · NumPy · Pandas · Matplotlib · C++ · LaTeX · Figma · Git
+Python · PyTorch · TensorFlow · Keras · Scikit-Learn · NumPy · Pandas · Matplotlib · C++ · LaTeX · Git
 
 ## 🌐 Find Me Online
 - 📧 syeda.zartashia.shafique@outlook.com
-- 🔗 LinkedIn: [add link]
+- 🔗 LinkedIn: [[add link](https://www.linkedin.com/in/syeda-zartashia-shafique-0a7142218/)]
 
 - 🆔 ORCID: [add link]
 - 🌍 Website: [add your Google Site link]
