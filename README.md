@@ -12,7 +12,7 @@ My goal is to build reliable vision systems that stay robust under distribution 
 - Diffusion Models
 
 ## 📄 Publications & Research
-Publications can be seen in 🎓 Google Scholar: [https://scholar.google.com/citations?user=j8IwUU4AAAAJ&hl=en]
+Publications can be seen in [[Google Scholar](https://scholar.google.com/citations?user=j8IwUU4AAAAJ&hl=en)]
 
 ## 🛠️ Tools & Skills
 Python · PyTorch · TensorFlow · Keras · Scikit-Learn · NumPy · Pandas · Matplotlib · C++ · LaTeX · Git
