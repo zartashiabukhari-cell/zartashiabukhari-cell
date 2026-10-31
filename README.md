@@ -18,10 +18,7 @@ Publications can be seen in [[Google Scholar](https://scholar.google.com/citatio
 Python · PyTorch · TensorFlow · Keras · Scikit-Learn · NumPy · Pandas · Matplotlib · C++ · LaTeX · Git
 
 ## 🌐 Find Me Online
-- 📧 syeda.zartashia.shafique@outlook.com
-- 🔗 LinkedIn: [[add link](https://www.linkedin.com/in/syeda-zartashia-shafique-0a7142218/)]
-
-- 🆔 ORCID: [add link]
-- 🌍 Website: [add your Google Site link]
+- 📧 [[Email me](syeda.zartashia.shafique@outlook.com)]
+- 🔗 [[LinkedIn](https://www.linkedin.com/in/syeda-zartashia-shafique-0a7142218/)]
 
 📫 Open to research collaboration and PhD opportunities.
