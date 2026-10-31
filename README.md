@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Syeda Zartashia Shafique 👋
 
-<!--
-**zartashiabukhari-cell/zartashiabukhari-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Research-oriented software engineer working on **robust computer vision and AI security**. I hold an MS in Software Engineering from **UET Taxila** and currently work as a Lecturer at **Riphah International University, Islamabad**, where I teach AI and mentor students in machine learning and computer vision projects.
 
-Here are some ideas to get you started:
+My goal is to build reliable vision systems that stay robust under distribution shifts, adversarial conditions, and real-world noise.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+- Deepfake Detection
+- AI & Biometric Security (Presentation Attack Detection)
+- Explainable AI
+- Robust & Generalizable Computer Vision
+- Diffusion Models
+
+## 📄 Publications & Research
+Publications can be seen in 🎓 Google Scholar: [https://scholar.google.com/citations?user=j8IwUU4AAAAJ&hl=en]
+
+## 🚀 Projects
+- **Explainable Fingerprint PAD**: lightweight MobileNet-inspired CNN with explainability for spoof detection
+- **SignSpeaks**: real-time sign language recognition platform for specially abled children (CNN, 96% accuracy)
+
+## 🛠️ Tools & Skills
+Python · PyTorch · TensorFlow · Keras · Scikit-Learn · NumPy · Pandas · Matplotlib · C++ · LaTeX · Figma · Git
+
+## 🌐 Find Me Online
+- 📧 syeda.zartashia.shafique@outlook.com
+- 🔗 LinkedIn: [add link]
+
+- 🆔 ORCID: [add link]
+- 🌍 Website: [add your Google Site link]
+
+📫 Open to research collaboration and PhD opportunities.
